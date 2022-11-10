@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Kx53
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello 👋
+- 👋 Hi, I’m Jetsada Tongphun.
+- 🌱 I’m currently study at Rangsit University.
 
-<!---
-Kx53/Kx53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ... 
+* Facebook https://www.facebook.com/jetsada.tongpool
+
+### Thank you for visiting
