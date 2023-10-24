@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jetsada Tongphun. (Ko)</h1>
-<h3 align="center">A University Student from Rangsit University.</h3>
+<h1 align="center">Hi 👋, I'm Awesome.</h1>
+<h3 align="center">A University Student.</h3>
 
 - 🔭 I’m currently working on **Self-project**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [this github](this github)
 
-- 📫 How to reach me **xxxxxx@email.com**
+- 📫 Work Contact **mr.awesometh.info@gmail.com**
 
 - ⚡ Fun fact **I'm a newbie on programing. 😆**
 
