@@ -1,12 +1,16 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Awesome.</h1>
 <h3 align="center">A Rookie Programmer.</h3>
-- 🔭 I’m currently working on **Self-project**, **Content Creation**
-- 🌱 I’m currently learning **JavaScripts, Rust, etc.**
-- 👨‍💻 All of my projects are available at [this github](this github)
-- 📫 Work Contact **mr.awesometh.info@gmail.com**
-- ⚡ Fun fact **I'm a newbie on programing.**😆
 
+- 🔭 I’m currently working on **Self-project**, **Content Creation**
+
+- 🌱 I’m currently learning **JavaScripts, Rust, etc.**
+
+- 👨‍💻 All of my projects are available at [this github](this github)
+
+- 📫 Work Contact **mr.awesometh.info@gmail.com**
+
+- ⚡ Fun fact **I'm a newbie on programing. 😆**
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20468969) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/awesome_53) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@_0x41wsome53) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0x41wesome_) 
