@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScripts, Rust, etc.**
 
-- 👨‍💻 All of my projects are available at [this github](this github)
+- 👨‍💻 All of my projects are available at [this github]
 
 - 📫 Work Contact **mr.awesometh.info@gmail.com**
 
