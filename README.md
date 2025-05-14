@@ -1,4 +1,4 @@
-# 💫 About Me:<br><h1 align="center">Hi 👋, I'm Jetsada.</h1><br><h3 align="center">A Computer Eingineer Student.</h3><br><br>- 🔭 I’m currently working on **Individual-project**.<br><br>- 🌱 I’m currently learning **Rust.**<br><br>- 👨‍💻 All of my projects are available at this github.<br>
+# 💫 About Me:<br><h1 align="center">Hi 👋, I'm Jetsada.</h1><br><h3 align="center">A Computer Engineer Student.</h3><br><br>- 🔭 I’m currently working on **Individual-project**.<br><br>- 🌱 I’m currently learning **Rust.**<br><br>- 👨‍💻 All of my projects are available at this github.<br>
 
 
 ## 🌐 Socials:
