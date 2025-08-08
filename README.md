@@ -162,6 +162,22 @@ Welcome to my Profile!
             <td align="center" width="98">shadcn/ui</td>
             <td align="center" width="98">Nuxt.js</td>
         </tr>
+      <tr>
+            <td align="center" width="98">
+                <a href="https://discord.js.org/">
+                    <img src="https://skillicons.dev/icons?i=discordjs" width="48" height="48" alt="DiscordJS" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="https://discord.com/">
+                    <img src="https://skillicons.dev/icons?i=bots" width="48" height="48" alt="Discord Bots" />
+                </a>
+            </td>
+      </tr>
+      <tr>
+            <td align="center" width="98">DiscordJS</td>
+            <td align="center" width="98">Discord Bots</td>
+      </tr>
     </table>
 </div>
 
